@@ -1,5 +1,8 @@
 {
     "recommendations": [
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "kleber-swf.unity-code-snippets",
+        "tobiah.unity-tools",
+        "unity.unity-debug"
     ]
 }

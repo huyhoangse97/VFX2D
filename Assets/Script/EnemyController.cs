@@ -23,4 +23,14 @@ public class EnemyController : MonoBehaviour
         }
     }
 
+    // private void OnTriggerStay2D(Collider2D other) {
+    //             if (other.gameObject.layer == 9){//Layer skill
+    //         print("OnTriggerStay2D: Collision skill effect");
+    //         // Rigidbody2D rgbd = other.gameObject.GetComponent<Rigidbody2D>();
+    //         Rigidbody2D rgbd = gameObject.GetComponent<Rigidbody2D>();
+    //         rgbd.AddForce(Vector2.down*200);
+    //         // rgbd.velocity = new Vector2(0, 2);
+    //     }
+    // }
+
 }
